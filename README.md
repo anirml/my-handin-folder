@@ -4,3 +4,5 @@
 //github!
 
 OPDATERET MED ALLE OPGAVER!
+
+link til readme file: https://github.com/anirml/my-handin-folder/blob/master/Week%2034/README.md
